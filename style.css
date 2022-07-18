@@ -62,7 +62,7 @@ header {
 }
 
 #section-1 {
-    width: 870px;
+    width: 900px;
     height: 679px;
     background-color: #FFFFFF;
     margin-top: 43px;
@@ -211,5 +211,3 @@ h4 {
     color: #FF4A60;
     padding-right: 6px;
 }
-
-#duration p {}
